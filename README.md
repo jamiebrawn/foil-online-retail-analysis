@@ -3,7 +3,7 @@
 
 ## Description
 
-This project analyzes a dataset of online retail transactions to provide insights and recommendations for improving business performance.
+This project analyses a dataset of online retail transactions to provide insights and recommendations for improving business performance.
 
 ## Dataset
 
@@ -56,26 +56,30 @@ The analysis uses the [Online Retail](https://archive.ics.uci.edu/dataset/352/on
 
 ## Usage
 
-[Instructions on how to run your analysis will go here]
+...
 
 ## Results
 
-[Summary of key findings and recommendations will go here]
+...
 
 ## Author
 
 James Brawn
 
-## License
+## Licence
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 The dataset used in this project is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
-## Acknowledgments
+## Acknowledgements
 
-- UCI Machine Learning Repository for providing the dataset
-- [Any other acknowledgments]
+- UCI Machine Learning Repository for providing the dataset.
+- Daqing Chen, School of Engineering, London South Bank University, for creating the dataset.
+
+## Disclaimer
+
+This project was conducted as part of an interview process with [FOIL Ltd.](https://foilai.co.uk/)
 
 ## References
 
