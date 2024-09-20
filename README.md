@@ -9,17 +9,6 @@ This project analyses a dataset of online retail transactions to provide insight
 
 The analysis uses the [Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)[^1] dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/), which contains transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retail company.
 
-## Project Structure
-
-```
-.
-├── data/                   # Directory for storing the dataset (not tracked by Git)
-├── notebooks/              # Jupyter notebooks for analysis
-├── src/                    # Source code for any custom functions or modules
-├── requirements.txt        # List of Python dependencies
-└── README.md               # This file
-```
-
 ## Setup
 
 1. **Clone the repository**:
@@ -54,14 +43,6 @@ The analysis uses the [Online Retail](https://archive.ics.uci.edu/dataset/352/on
    pip install -r requirements.txt
    ```
 
-## Usage
-
-...
-
-## Results
-
-...
-
 ## Author
 
 James Brawn
@@ -79,7 +60,7 @@ The dataset used in this project is licensed under a Creative Commons Attributio
 
 ## Disclaimer
 
-This project was conducted as part of an interview process with [FOIL Ltd.](https://foilai.co.uk/)
+This project was conducted with guidance from [FOIL Ltd.](https://foilai.co.uk/)
 
 ## References
 
